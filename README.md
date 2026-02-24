@@ -1,37 +1,72 @@
-<h1 align="center">nevercompact</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <em>Building open-source tools that fix what's broken in AI-assisted development.</em>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <a href="https://github.com/nevercompact/longmem">
-    <img src="https://img.shields.io/badge/🧠_longmem-persistent_memory_for_AI_coding_tools-blue?style=for-the-badge" alt="longmem" />
-  </a>
-</p>
-
----
-
-### 🔧 Currently Building
-
-**[longmem](https://github.com/nevercompact/longmem)** — AI coding tools lose critical context when they compact. longmem fixes that automatically.
-
-- 🔄 Auto-saves context before compaction, auto-restores after
-- 🧠 Preserves decisions, rejected approaches, reasoning chains, and rules
-- ⚡ 3 MCP tools, ~1,500 tokens — not 38 tools eating 23,000 tokens
-- 🔒 Local-only, encrypted, zero telemetry
-
-### 🎯 Interests
-
-`AI Tooling` · `Developer Experience` · `Security` · `Open Source`
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
-</p>
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p
+ align="left">
+        <a href="https://www.w3schools.com/css/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+ alt="css3" width="40" height="40"/>
+        </a>
+         
+        <a href="https://git-scm.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+alt="git" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.w3.org/html/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+ alt="html5" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.linux.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+ alt="linux" width="40" height="40"/>
+        </a>
+         
+        <a href="https://nodejs.org" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+ alt="nodejs" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.python.org" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+ alt="python" width="40" height="40"/>
+        </a>
+         
+        <a href="https://reactjs.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+ alt="react" width="40" height="40"/>
+        </a>
+         
+        <a href="https://tailwindcss.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+ alt="tailwind" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.typescriptlang.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+ alt="typescript" width="40" height="40"/>
+        </a>
+        </p>
